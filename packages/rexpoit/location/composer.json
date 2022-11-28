@@ -1,0 +1,10 @@
+{
+    "name": "rexpoit/location",
+    "description": "This package for tracking location and generate auto sallery",
+    "authors": [
+        {
+            "name": "Nayeem Hossain"
+        }
+    ],
+    "require": {}
+}
